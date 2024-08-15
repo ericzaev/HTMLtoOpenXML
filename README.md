@@ -3,14 +3,12 @@ H2OXML : HTML to OpenXML Converter
 
 Forked from https://github.com/ffmad/HTMLtoOpenXML
 
-Simple PHP script which take HTML code and transform it into OpenXML Code. (for Docx)
-
-This is the very first version. I coded this because i wanted to put text from a WYSIWYG editor into a .docx document.
+A simple PHP script supporting php 8.3 that takes HTML code and converts it into open XML code. (for Docx)
 
 INSTALLATION
 ============
 
-`composer require rkorebrits/htmltoopenxml`
+`composer require bersyatina/htmltoopenxml`
 
 WHAT H2OXML CAN DO
 ==================
